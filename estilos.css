@@ -1,0 +1,33 @@
+*{
+    font-family: monospace;
+}
+
+/* selector etiqueta */
+
+h1 { 
+  color: red;  
+}
+
+/* identifica un elemento en todo el html */
+
+#primero {
+    color: blue;
+}
+
+/* crea un conjunto de estilos */
+
+.color-green {
+    color: chartreuse;
+    font-size: 80px;
+}
+
+p{
+    color: blue;
+    background-color: orange;
+    font-size: 20px;
+    font-weight: bolder;
+    line-height: 50px;
+}
+
+
+
